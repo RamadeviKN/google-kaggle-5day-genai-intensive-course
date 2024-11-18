@@ -1,4 +1,4 @@
-Unit 4: Domain-Specific LLMs 🧠🔍
+Day 4: Domain-Specific LLMs 🧠🔍
 
 Welcome to Unit 4 of the 5-Day Generative AI Intensive Workshop by Google and Kaggle! This unit focuses on Domain-Specific LLMs, exploring how specialized large language models (LLMs) are created and applied to tackle specific problems in various fields.
 
