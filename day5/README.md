@@ -22,7 +22,7 @@ Summary Podcast: Listen to the podcast recap of this unit, created by NotebookLM
 MLOps for Generative AI Whitepaper: Deep dive into the concepts with this comprehensive whitepaper.
 
 Recording from Day 5's livestream:
-[Watch the YouTube Video](https://www.youtube.com/watch?v=kpRyiJUUFxY&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=1&t=26s)
+[Watch the YouTube Video](https://www.youtube.com/watch?v=uCFW0i9xrBc&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=5)
 
 Happy learning!
 
