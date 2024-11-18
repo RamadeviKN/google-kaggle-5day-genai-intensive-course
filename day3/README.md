@@ -1,4 +1,5 @@
 Day 3: Generative AI Agents 🤖✨
+
 Welcome to Day 3 of the 5-Day Generative AI Intensive Workshop by Google and Kaggle! This unit dives into the exciting world of Generative AI Agents, exploring how to build intelligent systems that can interact dynamically with users and external databases.
 
 📚 Learning Objectives
@@ -22,7 +23,9 @@ Build an Agentic Ordering System in LangGraph: Develop a robust AI agent capable
 🎙️ Optional Resources
 Summary Podcast: Listen to the podcast episode for a quick recap of this unit's key concepts.
 [Watch the YouTube Video](https://www.youtube.com/watch?v=H4gZd4BCrDQ)
+
 Whitepaper on Generative AI Agents: Gain deeper insights into building generative AI agents and their practical applications.
+
 Recording from Day 3's livestream is available:
 [Watch the YouTube Video](https://www.youtube.com/watch?v=HQUtMWoTAD4&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=3)
 
