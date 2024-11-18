@@ -22,7 +22,7 @@ Summary Podcast: Listen to the podcast episode for a concise recap of the unit's
 Whitepaper on Embeddings and Vector Databases: Gain a deeper understanding of the theoretical and practical aspects of embeddings and vector stores.
 
 
-Recording from Today's Livestream available:
+Recording from Day 2's Livestream available:
 [Watch the YouTube Video](https://www.youtube.com/watch?v=86GZC56rQCc&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=2)
 
 Happy learning!
